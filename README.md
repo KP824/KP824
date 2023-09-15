@@ -25,6 +25,7 @@ I enjoy contributing to open source projects and creating beautiful full stack a
 🔸 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kp824/)
 
 
+
 ## My Tools & Technologies 🧰 + 🕹️
 
 <img src="assets/Javascript.svg" alt="Javascript" width="40" height="40"/> &nbsp; <img src="assets/NodeJS.svg" alt="NodeJS" width="40" height="40"/> &nbsp; <img src="assets/ExpressJS.png" alt="ExpressNode" width="40" height="40"/> &nbsp; <img src="assets/ReactJS.svg" alt="ReactJS" width="40" height="40"/> &nbsp; <img src="assets/NextJS.png" alt="NextJS" width="40" height="40"/> &nbsp; <img src="assets/GraphQL.svg" alt="GraphQL" width="40" height="40"/> &nbsp; <img src="assets/Github.png" alt="Github" width="40" height="40"/> &nbsp; <img src="assets/HTML5.svg" alt="HTML5" width="40" height="40"/> &nbsp; <img src="assets/CSS3.svg" alt="CSS3" width="40" height="40"/> &nbsp; <img src="assets/Webpack.svg" alt="Webpack" width="40" height="40"/> &nbsp;
