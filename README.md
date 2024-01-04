@@ -1,13 +1,12 @@
 ## 👋 Hello! I'm Kevin
-I enjoy contributing to open source projects and building full stack applications. 
 
-🔹 🧋 A seasoned entrepreneur with nearly a decade in the food and drink industry, I've transitioned into full-stack software engineering. My passion lies in creating memorable experiences, turning innovative concepts into reality.
+🔹 ✨ A passionate developer that enjoys creating memorable experiences and turning innovative concepts into reality. 
 
 🔸 🔭 Currently working on GleiphQL in OSLabs: [Website](https://gleiphql.dev/) - a GraphQL complexity analysis & rate limiting tool for GraphQL developers.
 
-🔹 🌱 I'm continually exploring the realms of responsive design and holistic web development, driven by my dedication to crafting user-friendly and visually stunning web experiences.
+🔹 🌱 Recently co-presented a public talk about the significance of ["Testing Frameworks"](https://drive.google.com/file/d/1_-MSFuWT5674mzvLCWW33LTewFIr4bOF/view?usp=sharing) within web development.
 
-🔸 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kp824/)
+🔸 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/kp824/)! 
 
 
 ## My Tools & Technologies 🧰 + 🕹️
