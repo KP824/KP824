@@ -4,7 +4,7 @@
 
 🔸 🔭 Currently working on GleiphQL in OSLabs: [Website](https://gleiphql.dev/) - a GraphQL complexity analysis & rate limiting tool for GraphQL developers.
 
-🔹 🌱 Recently co-presented a public talk about the significance of ["Testing Frameworks"](https://drive.google.com/file/d/1_-MSFuWT5674mzvLCWW33LTewFIr4bOF/view?usp=sharing) within web development.
+🔹 🌱 Recently co-presented a public talk in Jeeny/Braclet Series, about the significance of ["Testing Tools & Frameworks"](https://drive.google.com/file/d/1_-MSFuWT5674mzvLCWW33LTewFIr4bOF/view?usp=sharing) in web development.
 
 🔸 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/kp824/)! 
 
